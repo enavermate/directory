@@ -24618,5 +24618,15 @@
     "ios": true,
     "android": true,
     "web": true
+  },
+  {
+    "githubUrl": "https://github.com/enavermate/react-native-splitflap",
+    "npmPkg": "@enavermate/react-native-splitflap",
+    "images": [
+      "https://raw.githubusercontent.com/enavermate/react-native-splitflap/master/.github/assets/showcase-overview.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "newArchitecture": "new-arch-only"
   }
 ]
